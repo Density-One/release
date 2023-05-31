@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DJDAW</title>
+        <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 31 May 2023 23:09:31 +0000</pubDate>
+            <sparkle:version>0.1.3</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW-Installer-ARM.dmg" length="89382884" type="application/octet-stream" sparkle:edSignature="trp7iKWmgf7BGn0Yj/eNWIaSFsVe6SdOFD2C+0mrbkF+4VYKKzPcP6Xdc+gsTdnePo07OUuA5uWfu6YdMKmKAA=="/>
+        </item>
+    </channel>
+</rss>
