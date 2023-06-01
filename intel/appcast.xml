@@ -3,10 +3,10 @@
     <channel>
         <title>DJDAW</title>
         <item>
-            <title>0.1.6</title>
-            <pubDate>Thu, 01 Jun 2023 14:44:00 +0000</pubDate>
-            <sparkle:version>0.1.6</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <title>0.1.7</title>
+            <pubDate>Thu, 01 Jun 2023 16:19:55 +0000</pubDate>
+            <sparkle:version>0.1.7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-Installer-Intel.dmg" length="51617971" type="application/octet-stream"/>
         </item>
