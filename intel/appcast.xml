@@ -3,12 +3,12 @@
     <channel>
         <title>DJDAW</title>
         <item>
-            <title>0.1.12</title>
-            <pubDate>Sat, 03 Jun 2023 13:41:00 +0000</pubDate>
-            <sparkle:version>0.1.12</sparkle:version>
-            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-Installer-Intel.dmg" length="51778489" type="application/octet-stream"/>
+            <title>0.1.13</title>
+            <pubDate>Mon, 05 Jun 2023 12:46:27 +0000</pubDate>
+            <sparkle:version>0.1.13</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-Installer-Intel.dmg" length="51664633" type="application/octet-stream" sparkle:edSignature="GqYUvASY3qsgUkIktTaUZQUQGVWyFlzUZThJlackQb/OU5yXCZGOJqGftEdfazaUsSc79XN85BJJUyviyxueBQ=="/>
         </item>
     </channel>
 </rss>
