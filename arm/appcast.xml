@@ -3,12 +3,12 @@
     <channel>
         <title>DJDAW</title>
         <item>
-            <title>0.1.17</title>
-            <pubDate>Mon, 05 Jun 2023 19:19:26 +0000</pubDate>
-            <sparkle:version>0.1.17</sparkle:version>
-            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <title>0.1.18</title>
+            <pubDate>Tue, 06 Jun 2023 06:30:18 +0000</pubDate>
+            <sparkle:version>0.1.18</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW-Installer-ARM.dmg" length="89570026" type="application/octet-stream" sparkle:edSignature="xuyleZ3BUm1YmVmigD7UVd7kcNtobb+Bd9Z1aYafXrlgJbpTRCwdxad2WNVUvXlaJ1HiYRlkTT3uMt8xN1n5DA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW-Installer-ARM.dmg" length="89569954" type="application/octet-stream" sparkle:edSignature="EgeiMRRg5do/7cGv2w45CvMdUqo9ZcnSl16EAoW6VeueHugsToZXOJKP0z12eraESxBM+ETd+WNsIz+CCnnhCg=="/>
         </item>
     </channel>
 </rss>
