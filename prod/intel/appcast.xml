@@ -8,7 +8,7 @@
             <sparkle:version>0.1.60</sparkle:version>
             <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-Installer-Intel.dmg" length="51661704" type="application/octet-stream" sparkle:edSignature="X7Ya4DkbclDQ+VzVoU+030nQJwUywaL2xOcgMdAA23C+0Ac1HP/1NWkASIEL/6xsocnpBVzZlXSKhD8449b0Bw=="/>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/prod/intel/DJDAW-Installer-Intel.dmg" length="51661704" type="application/octet-stream" sparkle:edSignature="X7Ya4DkbclDQ+VzVoU+030nQJwUywaL2xOcgMdAA23C+0Ac1HP/1NWkASIEL/6xsocnpBVzZlXSKhD8449b0Bw=="/>
         </item>
     </channel>
 </rss>
