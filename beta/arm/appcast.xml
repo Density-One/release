@@ -9,7 +9,7 @@
             <sparkle:version>0.1.61-beta</sparkle:version>
             <sparkle:shortVersionString>0.1.61-beta</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW-Installer-ARM.dmg" length="89608329" type="application/octet-stream" sparkle:edSignature="hsEjDn0B1jaVf3ET+o9qXGF91xwDn7/qc+xJJpEmPEwlFlMp0P+w+5a7hrgLsiOcQdwQEYE1t5SkUI6TRe19BA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/beta/arm/DJDAW-Installer-ARM.dmg" length="89608329" type="application/octet-stream" sparkle:edSignature="hsEjDn0B1jaVf3ET+o9qXGF91xwDn7/qc+xJJpEmPEwlFlMp0P+w+5a7hrgLsiOcQdwQEYE1t5SkUI6TRe19BA=="/>
         </item>
     </channel>
 </rss>
