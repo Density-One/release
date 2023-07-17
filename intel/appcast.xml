@@ -3,6 +3,19 @@
     <channel>
         <title>DJDAW</title>
         <item>
+            <title>0.1.69-beta</title>
+            <pubDate>Mon, 17 Jul 2023 19:15:51 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.69-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.69-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-0.1.69-beta-Intel.dmg" length="52289212" type="application/octet-stream" sparkle:edSignature="oINVZooqcZep4QZJXPRYiuK4y2gANqmQq0EcLceEM/d/RqOC47gIawJ8C57Mt+xzollSjArlGvje+l5vJK/aDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW0.1.69-beta-0.1.68-beta.delta" sparkle:deltaFrom="0.1.68-beta" length="934838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0dsqHEQN7GTPUc1f/Q6tjCID+SF9GhvOY+FwdRboWD4vUSDTmCnLTnrS1G7XhLlhaOuK5023zyaOYaxxRBz1Cw=="/>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW0.1.69-beta-0.1.65-beta.delta" sparkle:deltaFrom="0.1.65-beta" length="935126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nahJgIP+y/cH1MucwvDixynU/MVUmkEVu6fT92ZymYCqkIQdW9c7jEaGUoFOvcvLKLtDspEldUcP0P2+GbgYAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.68-beta</title>
             <pubDate>Mon, 17 Jul 2023 17:15:15 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
