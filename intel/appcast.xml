@@ -3,13 +3,25 @@
     <channel>
         <title>DJDAW</title>
         <item>
+            <title>0.1.68-beta</title>
+            <pubDate>Mon, 17 Jul 2023 17:15:15 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.68-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.68-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-0.1.68-beta-Intel.dmg" length="51662193" type="application/octet-stream" sparkle:edSignature="1TUfJyzSRLbqjtqu+vbyW/2b1ysNKRuivteoP8OuFFrJgMSatjcH7FGmUPADFmiUCpHcU47+zZqO/+inzN/kBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW0.1.68-beta-0.1.65-beta.delta" sparkle:deltaFrom="0.1.65-beta" length="64550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="RzEqULoJ4eOKWkOCkCKlVIY+rrnKlIKfsPeBecVWK4JK7VJPK+bN+rOBIAUwc5TZ37koNS/deOQlwkjPgi/XBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.65-beta</title>
             <pubDate>Mon, 17 Jul 2023 12:02:56 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>0.1.65-beta</sparkle:version>
             <sparkle:shortVersionString>0.1.65-beta</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/beta/intel/DJDAW-Installer-Intel.dmg" length="51662341" type="application/octet-stream" sparkle:edSignature="A2Bgl/a8mhW+KhYYyjLFSJU8r3Ss6rKT7sK67a2DONJROCwVc7hwFX9UVenm/DK2EAWV9kM/t5tbD1GVRzFJAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/intel/DJDAW-Installer-Intel.dmg" length="51662341" type="application/octet-stream" sparkle:edSignature="A2Bgl/a8mhW+KhYYyjLFSJU8r3Ss6rKT7sK67a2DONJROCwVc7hwFX9UVenm/DK2EAWV9kM/t5tbD1GVRzFJAQ=="/>
         </item>
     </channel>
 </rss>
