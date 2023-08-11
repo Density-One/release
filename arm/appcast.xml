@@ -3,6 +3,22 @@
     <channel>
         <title>DJDAW</title>
         <item>
+            <title>0.1.91-beta</title>
+            <pubDate>Fri, 11 Aug 2023 10:22:55 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.91-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.91-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW-0.1.91-beta-ARM.dmg" length="90269279" type="application/octet-stream" sparkle:edSignature="uT5ciQD7XILn6Vo3ekQqYHSWD+1bWInQ+xKPHoJpeS8c8cVDNbkF7uH1vLIZxWZonGUaIxw2FQspf5s8avaUBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW0.1.91-beta-0.1.90-beta.delta" sparkle:deltaFrom="0.1.90-beta" length="66578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zTyDfIh1MuRhunC/CCwnkfDkUpAfp1qbzdBTg67jZ/deAAV/3JQqmndpfsJpwEE/vrHZuX70cNpaptbYv9AbAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW0.1.91-beta-0.1.89.delta" sparkle:deltaFrom="0.1.89" length="376750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cv/ET2+LskNhPHR5w6dZhnOsRnhfoIVxerMorpOQYvCcnBkFhDt51vJ5o1uEEIduBhTTq10vI0Wysl9RTLcTDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW0.1.91-beta-0.1.88-beta.delta" sparkle:deltaFrom="0.1.88-beta" length="374642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="VCtz9Gl3lMNuuxcA0qd5jz2bcuwZUJhIiCrbw5fllgnTs1iiN0M6vJ5G11OdnBrkHmPd71/YkcQ1fU/WffLLCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW0.1.91-beta-0.1.87-beta.delta" sparkle:deltaFrom="0.1.87-beta" length="375514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PnPe07Qu0cJ8ffDM2h6XNzBa92P5yCAACPTKxIEFU2kf0XGOrDI56VjrLtjZt31daZIgdAU7/o554H8hxV7oAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/DJDAW0.1.91-beta-0.1.86-beta.delta" sparkle:deltaFrom="0.1.86-beta" length="389518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gaKcooEvgs7eqvgRRXOt+eDDTGGWItKGmh8HagkuIYV9vVoR1h6JnfHRgQFKNL8nQTb9qyenZXLqpqAd5YfUCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.90-beta</title>
             <pubDate>Thu, 10 Aug 2023 19:34:26 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
