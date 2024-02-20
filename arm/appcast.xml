@@ -8,7 +8,7 @@
             <sparkle:version>0.1.150</sparkle:version>
             <sparkle:shortVersionString>0.1.150</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/Density-0.1.150-ARM.dmg" length="165615395" type="application/octet-stream" sparkle:edSignature="4My+yeJQ36dPo3ZSYYRcuZzSrJiNWH4ZwLUoVSszKQuIU+h0h0qkTtm7gSbDy4a1ie0bCCdQ+1eabFn0BeHoCA=="/>
+            <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.150-ARM.dmg" length="165615395" type="application/octet-stream" sparkle:edSignature="4My+yeJQ36dPo3ZSYYRcuZzSrJiNWH4ZwLUoVSszKQuIU+h0h0qkTtm7gSbDy4a1ie0bCCdQ+1eabFn0BeHoCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/Density0.1.150-0.1.149-beta.delta" sparkle:deltaFrom="0.1.149-beta" length="391538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XGhEkCPU9DBPD0wcctQRy6i0aGEDsv/G+xI1LLqcdOyZT89RQrjJjkRUodM3ejrMZfvJxBl7M5w/QS9/H9xfAQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/Density-One/gh-pages/main/arm/Density0.1.150-0.1.148-beta.delta" sparkle:deltaFrom="0.1.148-beta" length="396058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FupreKwzYoXjA14FrmIkKY6SbDixoll6R4V17MiGZhS3zCOjArgDj2+ArO3vb9R1erKFUvPUIwpgXJtsTzyKAQ=="/>
