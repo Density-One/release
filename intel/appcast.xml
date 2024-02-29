@@ -3,6 +3,22 @@
     <channel>
         <title>DJDAW</title>
         <item>
+            <title>0.1.155-beta</title>
+            <pubDate>Thu, 29 Feb 2024 20:29:44 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.155-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.155-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density-0.1.155-beta-Intel.dmg" length="127761787" type="application/octet-stream" sparkle:edSignature="65b2Dq0bS9YIpny2XDbxURlULVmPwTJrIfTca0Vd94L0iiII7L7OIxR90swOcRy1SrkkstB72Bx3R/REvLk+BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.155-beta-0.1.154.delta" sparkle:deltaFrom="0.1.154" length="771526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="IlnFgvCgmjMC3+7Zm6pIUk7FVHuDvQLDDGjsGZq711v6FXH9jsx4HsE+x2A1C4oRMQWIL0SlhtbYsvIBcSzVCw=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.155-beta-0.1.153-beta.delta" sparkle:deltaFrom="0.1.153-beta" length="770470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="U9kjYV34G8/RRSswscOOm4q6qFiv2+HD0FcfAxYHbxYW1bu4mnbdfUEPGzIbOtDDCbvzzRqd7a8viU98dwmbCQ=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.155-beta-0.1.152-beta.delta" sparkle:deltaFrom="0.1.152-beta" length="770022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XCzXtLfiw1/WkgjBW00aD0WkKQtAXTstPFCAuZfRizbswBRXaVB24i0UVIu8ehFT7v5fSy8yREMxt8IQSHWQCA=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.155-beta-0.1.151-beta.delta" sparkle:deltaFrom="0.1.151-beta" length="804330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5XNYavVqZnCacjui+unTlWXl0BAhnBHicXDN/uYNH7hCyl1Q6B8N+OKupt3Eo20XyyJIZzn0iXmy49D7F4YkAA=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.155-beta-0.1.150.delta" sparkle:deltaFrom="0.1.150" length="833986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="8b8tZQ0gL3L9m4GnzdDDrdqTzJJ51fhs7HgWzGna21gFG7y9Xct5l/ajzgTi4FnpNLIpIWCdw0e9G+neERSWDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.154</title>
             <pubDate>Fri, 23 Feb 2024 17:48:13 +0000</pubDate>
             <sparkle:version>0.1.154</sparkle:version>
@@ -13,8 +29,8 @@
                 <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.154-0.1.153-beta.delta" sparkle:deltaFrom="0.1.153-beta" length="204574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CMGNZsUdsBcJh7NuGiRuytKe7JsRDQNZmiqMw+Tybc19HyBsmol7RtDEMQuf5A3ADkXXl+kOVtC6gZDZ1eBXCQ=="/>
                 <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.154-0.1.152-beta.delta" sparkle:deltaFrom="0.1.152-beta" length="205154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tm8I0DdCUR46YYj/O+s34jBtievY8t6+5jcsSXK15FhiBwSml+mh1bdR07Wua4Oyix/lTXwt2Rkf/yZ9oy4ZAQ=="/>
                 <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.154-0.1.151-beta.delta" sparkle:deltaFrom="0.1.151-beta" length="664358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KM5eMhQ1zS+0jUma6yxfmfT4xfKEwxji8TVIof1FnbVD8ElV3bfB7Ezl+2C43z6I3NsyiXD7VCzlSA7nau7DCQ=="/>
-                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.154-0.1.150.delta" sparkle:deltaFrom="0.1.150" length="702442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qGhL8o74Bqxw3tSFIBm3oaL/RPI9TX6krp9VUv+Mq5bsDjgshRmwOtavTQ9RfhxxgC1t+z2QoMd+9vDTeRVZDQ=="/>
                 <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.154-0.1.149-beta.delta" sparkle:deltaFrom="0.1.149-beta" length="703934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GVnzFGWQGQFSlDkHQNRh4waG1hjfyAGZTdDfFeT7kkg5etX6CVa/0QUZO2/rpxRYNvx2IO7Rtxva4t+veOclCg=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/intel/Density0.1.154-0.1.150.delta" sparkle:deltaFrom="0.1.150" length="702442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qGhL8o74Bqxw3tSFIBm3oaL/RPI9TX6krp9VUv+Mq5bsDjgshRmwOtavTQ9RfhxxgC1t+z2QoMd+9vDTeRVZDQ=="/>
             </sparkle:deltas>
         </item>
         <item>
