@@ -101,3 +101,5 @@
 /Users/runner/work/djdaw/djdaw/release/intel/Density-0.1.156-beta-Intel.dmg filter=lfs diff=lfs merge=lfs -text
 /Users/runner/work/djdaw/djdaw/release/arm/Density-0.1.158-beta-ARM.dmg filter=lfs diff=lfs merge=lfs -text
 /Users/runner/work/djdaw/djdaw/release/intel/Density-0.1.158-beta-Intel.dmg filter=lfs diff=lfs merge=lfs -text
+/Users/runner/work/djdaw/djdaw/release/arm/Density-0.1.159-beta-ARM.dmg filter=lfs diff=lfs merge=lfs -text
+/Users/runner/work/djdaw/djdaw/release/intel/Density-0.1.159-beta-Intel.dmg filter=lfs diff=lfs merge=lfs -text
