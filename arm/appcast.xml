@@ -3,6 +3,18 @@
     <channel>
         <title>Density</title>
         <item>
+            <title>0.1.185-beta</title>
+            <pubDate>Tue, 11 Jun 2024 18:25:54 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.185-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.185-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.185-beta-Universal.dmg" length="149012301" type="application/octet-stream" sparkle:edSignature="1q6EcEYiPGn7/7R1EyCE77cJcuWXw1Ma7jIn8uFA1pM72tdCfQGgmyn3YDbol3qEnabNQpWXLeTJGzBq97b1BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density0.1.185-beta-0.1.184-beta.delta" sparkle:deltaFrom="0.1.184-beta" length="2539034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ILSSB1hBDQtCYuucIR6R6SLatn4HHcVaS/G5ooSNx2O1ukTQ5TTpTeTsBV3rEv3uJssZq+Asxlhqy/YmzL3xAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.184-beta</title>
             <pubDate>Tue, 11 Jun 2024 06:45:33 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
