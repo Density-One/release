@@ -3,6 +3,22 @@
     <channel>
         <title>Density</title>
         <item>
+            <title>0.1.191-beta</title>
+            <pubDate>Wed, 19 Jun 2024 16:46:24 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.191-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.191-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.191-beta-Universal.dmg" length="149061600" type="application/octet-stream" sparkle:edSignature="lPdDhh1hbrWvESYJLgJncyJPrpZosiQB9hR27LCSZAg+PRaHHd3AIiVYGUUqzBHKCDzvF/atvMLoars7V4NaDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density0.1.191-beta-0.1.190.delta" sparkle:deltaFrom="0.1.190" length="1926602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PblBGOMMxTULIr9x2DC0kV8u878k3D9UAkElDYo1JhbEiFCyJeAUXINgQKPmAaGMc3u3PTeIG2jev83XJ9HwAQ=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density0.1.191-beta-0.1.189-beta.delta" sparkle:deltaFrom="0.1.189-beta" length="1257858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="u01fZLdO5yn/g1+o4EH3CrSjr81NVeM/tdm01CpOamryCb6yM4XbxBW1Vl7eLRcA0wlc29okyJLcOAg9DjPHCg=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density0.1.191-beta-0.1.188-beta.delta" sparkle:deltaFrom="0.1.188-beta" length="1272770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="BoPqlrMglI7flkRKJE6F6OmIn74Yh8i6NGvLvbwZpf4avZ8xDwiMAgl5T0hSS8V8VU/vYyqF3Ms2HJiNzilwCQ=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density0.1.191-beta-0.1.187-beta.delta" sparkle:deltaFrom="0.1.187-beta" length="1426246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tEp9d5NGa1CUA2mbVaOBkgbThQr0X2yQXN1tbGd+2XqJuke+ZE7QXwm4fGxJNQ42OSkB3TY1ehVfIyIW89qdCQ=="/>
+                <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density0.1.191-beta-0.1.186-beta.delta" sparkle:deltaFrom="0.1.186-beta" length="1574818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ySpBXNTcDEInH5fE3lXGdRzhlfXBJZ/49f4nYzwC8IflBBt8a16Vc8LBa55Ly2JYQurkSBmyj8OUo6gLiopsDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.190</title>
             <pubDate>Fri, 14 Jun 2024 18:44:30 +0000</pubDate>
             <sparkle:version>0.1.190</sparkle:version>
