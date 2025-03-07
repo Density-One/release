@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Density</title>
+    <link>https://github.com/Density-One/release/raw/main/windows/Density-0.1.236-Windows-Beta.exe</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.236</title>
+      <sparkle:version>0.1.236</sparkle:version>
+      <sparkle:shortVersionString>0.1.236</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[
+<h2>Version 0.1.236</h2>
+<p>This version includes the latest updates and improvements.</p>
+]]></description>
+      <pubDate>Fri, 07 Mar 2025 15:08:12 +0000</pubDate>
+      <enclosure 
+        url="https://raw.githubusercontent.com/Density-One/release/main/windows/Density-0.1.236-Windows-Beta.exe" 
+        sparkle:version="0.1.236" 
+        length="769161240" 
+        type="application/octet-stream" 
+        sparkle:os="windows-x64" 
+        sparkle:minimumSystemVersion="10.0.22000" 
+        sparkle:installerArguments="/SILENT" 
+        sparkle:dsaSignature="MDwCHHv7AIXi0L922oVj9+K2togEytotP6vm0X3AKWsCHHPhpOiwE3Ex5rVh1le4AnBShkZ5nBwK6jTSIr8=" 
+        sparkle:sha256="d719fa4eefa0ae7b09b5feebbc8cf9f1fc3ee255cd474d754ee83bacc8c908d9" />
+    </item>
+  </channel>
+</rss>
