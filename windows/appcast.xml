@@ -14,17 +14,17 @@
 <h2>Version 0.1.236</h2>
 <p>This version includes the latest updates and improvements.</p>
 ]]></description>
-      <pubDate>Wed, 05 Mar 2025 14:51:41 +0000</pubDate>
+      <pubDate>Fri, 07 Mar 2025 13:03:48 +0000</pubDate>
       <enclosure 
         url="https://raw.githubusercontent.com/Density-One/release/main/windows/Density-0.1.236-Windows-Beta.exe" 
         sparkle:version="0.1.236" 
-        length="769190888" 
+        length="769043935" 
         type="application/octet-stream" 
         sparkle:os="windows-x64" 
         sparkle:minimumSystemVersion="10.0.22000" 
         sparkle:installerArguments="/SILENT" 
-        sparkle:dsaSignature="MCwCFAftd5SH4DJS0qNzQpq7vspZ5lEjAhR3yJH5CEZKhMgrXZmt4M60eZf/+g==" 
-        sparkle:sha256="4fc133deb9dfed7b826b9dc9007cabe9e8f36194f3993bb39474c3ce7707ed49" />
+        sparkle:dsaSignature="MDwCHAlbfmIE8mr8VLWjcDs6MinEKbzq+eWMwunjV8MCHFMI5QKWnju/johFUPUy&#10;g8mVoV4f1YGm56kRwwo=" 
+        sparkle:sha256="988d552ef6b838deb862241d409ff6cc2e368ce9324d5cdf00b1343a1a5c4dc7" />
     </item>
   </channel>
 </rss>
