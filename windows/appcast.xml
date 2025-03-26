@@ -6,6 +6,17 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
   <item>
+    <title>Version 0.1.246</title>
+    <sparkle:version>0.1.246</sparkle:version>
+    <sparkle:shortVersionString>0.1.246</sparkle:shortVersionString>
+    <sparkle:channel>beta</sparkle:channel>
+    <description><![CDATA[
+<h2>Version 0.1.246</h2><p>This version includes the latest updates and improvements.</p>
+]]></description>
+    <pubDate>Wed, 26 Mar 2025 16:53:00 +0000</pubDate>
+    <enclosure url="https://github.com/Density-One/release/raw/refs/heads/main/windows/Density-0.1.246-Windows-beta.exe" sparkle:version="0.1.246" length="764069639" type="application/octet-stream" sparkle:os="windows-x64" sparkle:minimumSystemVersion="10.0.22000" sparkle:installerArguments="/SILENT" sparkle:dsaSignature="MDwCHEcP/o3EubVU8C3F5oBLCSxBolQ4UoEQcEfT7f0CHDDLSFNXOrPkMqx+5hpq HJwN3FuhB9vJaluGlB4=" sparkle:sha256="399c726daf4db686d7d5723451ee11a176a60c906e28187513025d473aa964bb" sparkle:criticalUpdate="true" />
+  </item>
+  <item>
     <title>Version 0.1.245</title>
     <sparkle:version>0.1.245</sparkle:version>
     <sparkle:shortVersionString>0.1.245</sparkle:shortVersionString>
