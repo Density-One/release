@@ -1,8 +1,15 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Density</title>
         <item>
+            <title>0.1.252</title>
+            <pubDate>Mon, 31 Mar 2025 16:51:13 +0000</pubDate>
+            <sparkle:version>0.1.252</sparkle:version>
+            <sparkle:shortVersionString>0.1.252</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.252-Universal.dmg" length="396253357" type="application/octet-stream" sparkle:edSignature="3aDiAEfZ+136hkUVV1Gta4bhr8j3pxlCZvB1c17gkcvO/0n5piAhgAlZwE2zm4If/sQ+BIvmV5QM9WaijdgkCA=="/>
+        </item>
         <item>
             <title>0.1.251-beta</title>
             <pubDate>Mon, 31 Mar 2025 14:16:18 +0000</pubDate>
@@ -13,7 +20,6 @@
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.251-beta-Universal.dmg" length="396254541" type="application/octet-stream" sparkle:edSignature="6DT0/87D+ojtxhNwj2nWPE/h3PM36urVRsxsC30s2hwQzIck/toRix8i40pFau5neccxFOCKl+1BZtyJ3f32AQ=="/>
         </item>
         <item>
-        <item>
             <title>0.1.250-beta</title>
             <pubDate>Mon, 31 Mar 2025 13:05:40 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -22,7 +28,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.250-beta-Universal.dmg" length="396256371" type="application/octet-stream" sparkle:edSignature="b/mjk7zN1E/OAxX39NZnVtMblU/VbAaBh+YHLM2rQmIEWBRFwNVrCRUrWEIKXypYl6qT8NVF0RUOFs47uoNhDQ=="/>
         </item>
-        <item>
         <item>
             <title>0.1.249-beta</title>
             <pubDate>Fri, 28 Mar 2025 18:18:21 +0000</pubDate>
@@ -33,7 +38,6 @@
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.249-beta-Universal.dmg" length="396254557" type="application/octet-stream" sparkle:edSignature="zvKTmXWjpWp70rYTLOAkg1vidRMO6eZ4B35CJhPP5WK0GQ8+ZdmA416IKaLc+FlkfPb7hHoqn8ZrviqIzJfuBQ=="/>
         </item>
         <item>
-        <item>
             <title>0.1.248-beta</title>
             <pubDate>Fri, 28 Mar 2025 17:14:45 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -42,7 +46,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.248-beta-Universal.dmg" length="396254512" type="application/octet-stream" sparkle:edSignature="13+twwgUSifZRbNp81s2WDsrXgmQ1nKVDpb365Cp7MHfiBMTiCy8a7N9iH6A/Yoky+71HaP2//TQKFYE88l9CA=="/>
         </item>
-        <item>
         <item>
             <title>0.1.247-beta</title>
             <pubDate>Thu, 27 Mar 2025 18:03:09 +0000</pubDate>
@@ -53,7 +56,6 @@
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.247-beta-Universal.dmg" length="396225898" type="application/octet-stream" sparkle:edSignature="QhXgj7724SNrfU+v95ISH2jS8hQfQAiOCzsgmh/cWfoDqwXhzpDpdCFGLTQYmUQ4SvrzB3jIqNHMcCjvWeB9Cg=="/>
         </item>
         <item>
-        <item>
             <title>0.1.246-beta</title>
             <pubDate>Wed, 26 Mar 2025 16:55:57 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -62,7 +64,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.246-beta-Universal.dmg" length="396255880" type="application/octet-stream" sparkle:edSignature="gu87GrMsj5hfZ0Udl/EAT/MdacjILijq848Z8Bv2y0EcwLMBupXQb52dUVGIh+Nu/+r0iHWBy3VaRme9LMMRBw=="/>
         </item>
-        <item>
         <item>
             <title>0.1.245-beta</title>
             <pubDate>Tue, 25 Mar 2025 11:47:34 +0000</pubDate>
@@ -73,7 +74,6 @@
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.245-beta-Universal.dmg" length="396255320" type="application/octet-stream" sparkle:edSignature="HZ9zLnveVwAOVQmm2PazuC5jNY2YAhWXZDarxuuQ5l7Nu6DvmS99Ehq4iH3ddJig0hsWavjQeYATaYa46IM0DA=="/>
         </item>
         <item>
-        <item>
             <title>0.1.244-beta</title>
             <pubDate>Mon, 24 Mar 2025 17:54:30 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -82,7 +82,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.244-beta-Universal.dmg" length="396223514" type="application/octet-stream" sparkle:edSignature="NjJk7YCblRMes4OUWT2TP6OdrV19ubU5pXqocbTgmtjD5LElrZUG0LzO3qFwYZvU/SOXmtN0PzjZc3fRGvK6DA=="/>
         </item>
-        <item>
         <item>
             <title>0.1.243-beta</title>
             <pubDate>Mon, 24 Mar 2025 16:41:50 +0000</pubDate>
@@ -93,7 +92,6 @@
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.243-beta-Universal.dmg" length="396255413" type="application/octet-stream" sparkle:edSignature="iXELBqooyMYoTxnQwOWaK0SKK4OnxV9sVeMs9a+7QWU3kyrDaD2fujOnsmXZBegq+2Wg4gR5TQtfJl/ppGqVAw=="/>
         </item>
         <item>
-        <item>
             <title>0.1.242-beta</title>
             <pubDate>Mon, 24 Mar 2025 15:50:59 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -102,7 +100,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.242-beta-Universal.dmg" length="396255120" type="application/octet-stream" sparkle:edSignature="2X4lKPu8S3SvS4sT0k8GyXLIemBlT/cM7qbGrflzuAILMDoem/pCTkcMeVHhGcNVrZs5vo3t5mT2G7sIHacICQ=="/>
         </item>
-        <item>
         <item>
             <title>0.1.241-beta</title>
             <pubDate>Fri, 21 Mar 2025 15:30:14 +0000</pubDate>
