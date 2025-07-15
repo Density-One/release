@@ -4,6 +4,16 @@
         <title>Density</title>
         <item>
         <item>
+            <title>0.1.254-beta</title>
+            <pubDate>Tue, 15 Jul 2025 18:45:56 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>0.1.254-beta</sparkle:version>
+            <sparkle:shortVersionString>0.1.254-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Density-One/release/raw/main/arm/Density-0.1.254-beta-Universal.dmg" length="396265232" type="application/octet-stream" sparkle:edSignature="qdRUVLlFKDh4zcOP3TQ4hXLanduFZXR62X5vB9OQh0/CKMhzLsZWqzbaR8xu0Ioh84DIyuEDUh8EbUGzdzSWAQ=="/>
+        </item>
+        <item>
+        <item>
             <title>0.1.253-beta</title>
             <pubDate>Tue, 06 May 2025 14:13:02 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
